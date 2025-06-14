@@ -1,1 +1,1 @@
-# zvezda-bot
+# zvezda-b
